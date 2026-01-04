@@ -18,6 +18,12 @@
   "homepage": "https://github.com/Matheus1033/Api#readme",
   "description": "",
   "dependencies": {
+    "@prisma/client": "6.19",
+    "dotenv": "^17.2.3",
     "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "prisma": "6.19"
   }
 }
